@@ -40,11 +40,10 @@ function countLetters() {
 }
 
 // Ex: 4
-function nameSurname {
+function nameSurname() {
   let name = ["A", "I", "N", "H", "O", "A"];
   let space = [" "];
   let surname = ["O", "R", "T", "E", "G", "A"];
   let fullName = name.concat(space, surname);
   console.log(fullName);
-
 }
