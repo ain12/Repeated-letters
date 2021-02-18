@@ -9,7 +9,7 @@ button.addEventListener("click", (event) => {
 });
 
 function clickButton() {
-  document.getElementById("results").innerHTML = "Check console!";
+  document.getElementById("display").innerHTML = "Check console!";
 }
 
 // Ex: 1
